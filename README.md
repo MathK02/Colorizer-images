@@ -6,10 +6,10 @@ Ce projet repose sur un réseau de neurones convolutifs (CNN) pour coloriser aut
 
 Le dataset utilisé est un ensemble d’images RGB compressé dans un fichier `.zip`.
 
-Lien de téléchargement du dataset : [Télécharger le dataset](https://example.com/dataset.zip)  
-*(Remplace ce lien par celui vers ton propre hébergement, comme Google Drive ou HuggingFace)*
+Lien de téléchargement du dataset : [Télécharger le dataset](https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)  
 
-Une fois uploadé dans l'environnement (Google Colab ou local), il est automatiquement extrait dans un dossier `dataset/`.
+
+
 
 ## Architecture du modèle
 
