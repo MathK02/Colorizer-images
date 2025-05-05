@@ -21,8 +21,8 @@ Le modèle utilise un backbone pré-entraîné de type `ResNet` provenant de `to
 - La perte de validation, mesurée sur un ensemble d’images non vues par le modèle, permettant d’évaluer sa capacité de généralisation.
 
 <center>
-<img src="images_courbe/loss_curve.png" alt="Courbe de perte" width="400"/>
-<img src="images_courbe/validation_curve.png" alt="Courbe de gain" width="400"/>
+<img src="images_courbes/loss_curve.png" alt="Courbe de perte" width="400"/>
+<img src="images_courbes/validation_curve.png" alt="Courbe de gain" width="400"/>
 </center>
 
 ## Résultats visuels
