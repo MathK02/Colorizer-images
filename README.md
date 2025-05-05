@@ -17,14 +17,12 @@ Le modèle utilise un backbone pré-entraîné de type `ResNet` provenant de `to
 
 ## Performance de l'entraînement
 
-Deux métriques principales sont suivies au cours de l’apprentissage :
-
-- La fonction de perte (*loss*), permettant d’évaluer la cohérence de la prédiction par rapport à l’image originale.
-- Le gain, correspondant à une mesure qualitative de l’amélioration de la colorisation.
+- La fonction de perte (*loss*), permettant d’évaluer la cohérence de la prédiction par rapport à l’image originale sur l’ensemble d’entraînement.
+- La perte de validation, mesurée sur un ensemble d’images non vues par le modèle, permettant d’évaluer sa capacité de généralisation.
 
 <center>
 <img src="images_courbe/loss_curve.png" alt="Courbe de perte" width="400"/>
-<img src="images_courbe/gain_curve.png" alt="Courbe de gain" width="400"/>
+<img src="images_courbe/validation_curve.png" alt="Courbe de gain" width="400"/>
 </center>
 
 ## Résultats visuels
