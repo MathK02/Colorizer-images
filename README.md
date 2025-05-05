@@ -34,9 +34,9 @@ image en niveaux de gris, image colorisée (prédite), vérité terrain (RGB).
 
 | Exemples de colorisation |
 |---------------------------|
-| ![](images_exemples/exemple1.png) |
-| ![](images_exemples/exemple2.png) |
-| ![](images_exemples/exemple3.png) |
+| ![](images_exemples/6.png) |
+| ![](images_exemples/7.png) |
+| ![](images_exemples/8.png) |
 
 ## Exécution du projet
 
