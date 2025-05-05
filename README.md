@@ -36,9 +36,4 @@ image en niveaux de gris, image colorisée (prédite), vérité terrain (RGB).
 | ![](images_exemples/7.jpg) |
 | ![](images_exemples/8.jpg) |
 
-## Exécution du projet
 
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/ton-pseudo/image-colorization.git
-   cd image-colorization
